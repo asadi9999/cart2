@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title":"دوره جاوا اسگریپت",
+        "dis": "بخش اول",
+        "price": 2,
+        "image": { "fields": { "file": { "url": "./images/js.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title":"دوره ریکت",
+        "dis": "بخش دوم",
+        "price": 4,
+        "image": { "fields": { "file": { "url": "./images/js.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title":"دوره پایتون",
+        "dis": "بخش سوم",
+        "price": 254e5 ,
+        "image": { "fields": { "file": { "url": "./images/js.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title":"دوره هوش مصنوعی",
+        "dis": "بخش چهارم",
+        "price": 145e5,
+        "image": { "fields": { "file": { "url": "./images/js.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title":"دوره اپ نویسی",
+        "dis": "بخش پنجم",
+        "price": 125e5,
+        "image": { "fields": { "file": { "url": "./images/js.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title":"دوره بازیسازی",
+        "dis": "بخش ششم",
+        "price":542e5,
+        "image": { "fields": { "file": { "url": "./images/js.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title":"دوره کارگاهی وب ",
+        "dis": "بخش هفتم",
+        "price": 321e5,
+        "image": { "fields": { "file": { "url": "./images/js.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title":"دوره کارگاهی اپ ",
+        "dis": "بخش هشتم",
+        "price": 123e5,
+        "image": { "fields": { "file": { "url": "./images/js.webp" } } }
+      }
+    }
+  ]
+}
